@@ -10,6 +10,6 @@ Or you can fork this repo, update broken module (fix problem) and push the solut
 Checked and workable modules:
 
 - Stylus compiler
-- //check other modules and tell me about issues//
+- *check other modules and tell me about issues*
 
 (sorry for pidgin English, I'm Russian)
